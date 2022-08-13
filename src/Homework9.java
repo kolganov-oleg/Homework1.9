@@ -10,5 +10,9 @@ public class Homework9 {
 
         System.out.println(modicina.getTitle() + " " + modicina.getPublishDate() + " " + nikitaZhukov.getSurname());
         System.out.println(kudjo.getTitle() + " " + kudjo.getPublishDate() + " " + king.getSurname());
+
+        System.out.println(modicina);
+        System.out.println(kudjo);
+
     }
 }
